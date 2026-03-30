@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="App.Models/App.Models.csproj" />
+  <Project Path="App.ViewModels/App.ViewModels.csproj" />
+  <Project Path="App.Views/App.Views.csproj" />
+  <Project Path="App.WPF/AppWPF.csproj" Id="ff2ee020-9952-4284-af59-f2880afdb1bc" />
+</Solution>
