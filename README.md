@@ -1,5 +1,5 @@
 **Form1: Dynamic Note Management System**
-**Form1** is a robust Windows Forms application built using the MVVM (Model-View-ViewModel) pattern. It provides a seamless note-taking experience with a focus on session persistence, categorized organization, and a visual action history.
+is a robust Windows Forms application built using the MVVM (Model-View-ViewModel) pattern. It provides a seamless note-taking experience with a focus on session persistence, categorized organization, and a visual action history.
 
 
 🚀 Key Features
