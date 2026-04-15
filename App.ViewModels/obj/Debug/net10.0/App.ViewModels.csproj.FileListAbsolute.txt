@@ -1,0 +1,17 @@
+C:\Users\Radko\source\repos\WinForms_MVVM_Project\App.ViewModels\bin\Debug\net10.0\App.ViewModels.deps.json
+C:\Users\Radko\source\repos\WinForms_MVVM_Project\App.ViewModels\bin\Debug\net10.0\App.ViewModels.runtimeconfig.json
+C:\Users\Radko\source\repos\WinForms_MVVM_Project\App.ViewModels\bin\Debug\net10.0\App.ViewModels.dll
+C:\Users\Radko\source\repos\WinForms_MVVM_Project\App.ViewModels\bin\Debug\net10.0\App.ViewModels.pdb
+C:\Users\Radko\source\repos\WinForms_MVVM_Project\App.ViewModels\bin\Debug\net10.0\App.Models.dll
+C:\Users\Radko\source\repos\WinForms_MVVM_Project\App.ViewModels\bin\Debug\net10.0\App.Models.pdb
+C:\Users\Radko\source\repos\WinForms_MVVM_Project\App.ViewModels\obj\Debug\net10.0\App.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Radko\source\repos\WinForms_MVVM_Project\App.ViewModels\obj\Debug\net10.0\App.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Radko\source\repos\WinForms_MVVM_Project\App.ViewModels\obj\Debug\net10.0\App.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Radko\source\repos\WinForms_MVVM_Project\App.ViewModels\obj\Debug\net10.0\App.ViewModels.AssemblyInfo.cs
+C:\Users\Radko\source\repos\WinForms_MVVM_Project\App.ViewModels\obj\Debug\net10.0\App.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Radko\source\repos\WinForms_MVVM_Project\App.ViewModels\obj\Debug\net10.0\App.View.778F9E4E.Up2Date
+C:\Users\Radko\source\repos\WinForms_MVVM_Project\App.ViewModels\obj\Debug\net10.0\App.ViewModels.dll
+C:\Users\Radko\source\repos\WinForms_MVVM_Project\App.ViewModels\obj\Debug\net10.0\refint\App.ViewModels.dll
+C:\Users\Radko\source\repos\WinForms_MVVM_Project\App.ViewModels\obj\Debug\net10.0\App.ViewModels.pdb
+C:\Users\Radko\source\repos\WinForms_MVVM_Project\App.ViewModels\obj\Debug\net10.0\App.ViewModels.genruntimeconfig.cache
+C:\Users\Radko\source\repos\WinForms_MVVM_Project\App.ViewModels\obj\Debug\net10.0\ref\App.ViewModels.dll

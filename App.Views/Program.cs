@@ -1,4 +1,4 @@
-using App.Models;
+using App.Models.Models;
 
 namespace App.Views
 {
